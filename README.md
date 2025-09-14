@@ -25,6 +25,18 @@ The **Lead Manager App** is a modern web application built with **Next.js**, **T
 
 ## ⚡ Screenshots
 
-![Lead Manager Screenshot](./assets/login.png)
+![Lead Manager Screenshot](src/assets/login.png)
+![Lead Manager Screenshot](src/assets/homepage.png)
 
 ---
+
+## 🎯 Usage
+
+- Add new leads using the **Add Lead** button.
+- Search leads using the search input.
+- Export existing leads into **CSV format**.
+- Import leads by uploading a **CSV file**.
+- View lead details by clicking the **info icon**.
+
+---
+
